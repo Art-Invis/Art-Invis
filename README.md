@@ -3,9 +3,8 @@
 - 👀 **I’m interested in:** Web development, C++, Python, database design and Arduino.  
 - 🌱 **I’m currently learning:** Responsive web design, JavaScript, Arduino and etc.  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I'm a big fan of astronomy and can name most constellations in the night sky!  
+- ⚡ **Fun fact:** I'm a big fan of astronomy and can name constellations in the night sky!  
 
----
 
 ## 📊 My GitHub Stats  
 
