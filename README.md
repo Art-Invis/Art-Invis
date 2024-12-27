@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Artem
 
-- 👀 **I’m interested in:** Web development, C++, Python, database design and Arduino.  
-- 🌱 **I’m currently learning:** Responsive web design, JavaScript, Arduino and etc.  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I'm a big fan of astronomy and can name constellations in the night sky!  
-
+- 🌍 **I’m interested in:** Web development, C++, Python, database design, and Arduino.  
+- 📚 **I’m currently learning:** Responsive web design, JavaScript, Arduino, and more.  
+- 🎶 **Fun fact:** I'm a huge fan of EDM music and love discovering new tracks and artists! 🎧  
 
 ## 📊 My GitHub Stats  
 
@@ -14,4 +12,4 @@
 
 ---
 
-💡 *Feel free to check out my repositories or drop me a message to collaborate!*  
+✨ *Feel free to check out my repositories or drop me a message to collaborate!* 💬  
