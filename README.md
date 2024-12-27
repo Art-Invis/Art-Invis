@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Artem Gada 
+# 👋 Hi, I’m Artem
 
 - 👀 **I’m interested in:** Web development, C++, Python, database design and Arduino.  
 - 🌱 **I’m currently learning:** Responsive web design, JavaScript, Arduino and etc.  
