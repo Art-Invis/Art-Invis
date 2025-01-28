@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Artem
 
 - 🌍 **I’m interested in:** Web development, C++, Python, database design, and Arduino.  
-- 📚 **I’m currently learning:** Responsive web design, JavaScript, Arduino, and more.  
+- 📚 **I’m currently learning:** Arduino, C and more.  
 - 🎶 **Fun fact:** I'm a huge fan of EDM music and love discovering new tracks and artists! 🎧  
 
 ## 📊 My GitHub Stats  
