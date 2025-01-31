@@ -14,9 +14,9 @@
 
 ## 📊 My GitHub Stats  
 
-![Art-Invis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Art-Invis&show_icons=true&theme=radical)  
+![Art-Invis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Art-Invis&show_icons=true&theme=blue-green)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Invis&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Invis&layout=donut-vertical&theme=blue-green)  
 
 ---
 
