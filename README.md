@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Artem  
+#                           👋 Hi, I’m Artem  
 
 - 💻 **I’m a developer passionate about:** Web development, C++, Python, database design, and embedded systems (Arduino).  
 - 📖 **Currently learning:** C programming, Arduino, and improving my database design skills.  
