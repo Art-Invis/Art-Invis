@@ -1,19 +1,42 @@
 
-#                           👋 Hi, I’m Artem  
+# 👋 Hi there! I’m Artem
 
 ---
 
-- 💻 **I’m a developer passionate about:** Web development, C++, Python, database design, and embedded systems (Arduino).  
-- 📖 **Currently learning:** C programming, Arduino, and improving my database design skills.  
-- 🎧 **Fun fact:** I’m a huge fan of EDM music and love exploring new tracks and artists!  
+🎓 **I’m a Computer Science student**, passionate about programming, web development, and embedded systems.
+I'm actively expanding my skills through university studies and personal projects.
 
-## 🚀 Skills & Interests  
-- **Programming:** C, Python, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** MySQL, database schema design, normalization  
-- **Embedded Systems:** Arduino, hardware programming  
-- **Tech Stack:** Visual Studio, VS Code, MSYS2, Arduino IDE
-  
+---
+
+## 🎯 About Me
+
+* 💻 **Fields of interest:** Web development, systems programming (C/C++), Python, database design, computer networks, and microcontrollers.
+* 📚 **Currently studying:**
+  C programming, Arduino, database design, computer networks, microcontroller architecture, and Linux basics (CLI).
+* 🎧 **Fun fact:** I'm a big fan of EDM music and love discovering new artists and tracks!
+
+---
+
+## 🚀 Skills & Technologies
+
+### 💡 Core Areas
+
+* **Programming Languages:**
+  C (Basic), C++ (Basic), Python (Intermediate), JavaScript (Basic)
+* **Web Development:**
+  HTML, CSS, JavaScript, NodeJS
+* **Databases:**
+  MySQL, relational schema design, normalization to 3NF
+* **Embedded Systems:**
+  Arduino (sensors, actuators, serial communication)
+* **Networking & OS:**
+  Basic Linux commands, network protocols (currently learning)
+
+### 🛠️ Tools & Environments
+
+* Visual Studio, VS Code, MSYS2, Arduino IDE
+* Windows, Linux (Ubuntu)
+
 ---
 
 ## 📊 My GitHub Stats  
