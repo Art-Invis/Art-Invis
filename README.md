@@ -5,7 +5,6 @@
 🎓 **I’m a Computer Science student**, passionate about programming, web development, and embedded systems.
 I'm actively expanding my skills through university studies and personal projects.
 
----
 
 ## 🎯 About Me
 
