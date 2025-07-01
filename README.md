@@ -8,7 +8,7 @@ I'm actively expanding my skills through university studies and personal project
 
 ## 🎯 About Me
 
-* 💻 **Fields of interest:** Web development, systems programming (C/C++), Python, database design, computer networks, and microcontrollers.
+* 💻 **Fields of interest:** Systems programming (C/C++), Python, database design and microcontrollers.
 * 📚 **Currently studying:**
   C programming, Arduino, database design, computer networks, microcontroller architecture, and Linux basics (CLI).
 * 🎧 **Fun fact:** I'm a big fan of EDM music and love discovering new artists and tracks!
@@ -26,7 +26,7 @@ I'm actively expanding my skills through university studies and personal project
 * **Databases:**
   MySQL, relational schema design, normalization to 3NF
 * **Embedded Systems:**
-  Arduino (sensors, actuators, serial communication)
+  Arduino and ESP (sensors, actuators, serial communication)
 * **Networking & OS:**
   Basic Linux commands, network protocols (currently learning)
 
