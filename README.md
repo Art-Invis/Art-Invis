@@ -1,48 +1,51 @@
+# 👨‍💻 Hi there! I’m **Artem** 
+| Student & Dev Enthusiast  
+---
 
-# 👋 Hi there! I’m Artem
-
-
-🎓 **I’m a Computer Science student**, passionate about programming, web development, and embedded systems.
-I'm actively expanding my skills through university studies and personal projects.
-
-
-## 🎯 About Me
-
-* 💻 **Fields of interest:** Systems programming (C/C++), Python, database design and microcontrollers.
-* 📚 **Currently studying:**
-  C programming, Arduino, database design, computer networks, microcontroller architecture, and Linux basics (CLI).
-* 🎧 **Fun fact:** I'm a big fan of EDM music and love discovering new artists and tracks!
+### 🔥 **About Me**  
+- 🎓 **Computer Science** student diving deep into systems & embedded  
+- 💡 **Passionate about:** C/Python, databases, IoT, and Linux  
+- 🎧 **EDM addict** | ⚡ **Tech geek** | 🌱 **Learning daily**  
+- ✨ **Fun fact:** Can debug code better than my sleep schedule  
 
 ---
 
-## 🚀 Skills & Technologies
+### 🛠 **Tech Stack**  
 
-### 💡 Core Areas
+#### **Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) - (Basic)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) - (Basic)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) - (Intermediate)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) - (Basic)  
 
-* **Programming Languages:**
-  C (Basic), C++ (Basic), Python (Intermediate), JavaScript (Basic)
-* **Web Development:**
-  HTML, CSS, JavaScript, NodeJS
-* **Databases:**
-  MySQL, relational schema design, normalization to 3NF
-* **Embedded Systems:**
-  Arduino and ESP (sensors, actuators, serial communication)
-* **Networking & OS:**
-  Basic Linux commands, network protocols (currently learning)
+#### **Web & Databases**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-### 🛠️ Tools & Environments
-
-* Visual Studio, VS Code, MSYS2, Arduino IDE
-* Windows, Linux (Ubuntu)
+#### **Embedded & Tools**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-## 📊 My GitHub Stats  
+### 📈 **GitHub Analytics**  
 
-![Art-Invis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Art-Invis&show_icons=true&theme=blue-green)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Invis&layout=donut-vertical&theme=blue-green)  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Art-Invis&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Invis&layout=compact&theme=radical&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
-✨ *Check out my repositories or drop me a message to collaborate!* 🚀💬  
+### 🎯 **Current Focus**  
+- 👨‍💻 **Deepening Python skills**
+- 📖 **Deepening C/Embedded skills**
+- 🔌 **Arduino/ESP32 projects**  
+- 🐧 **Mastering Linux CLI**  
+
+---
+
+### 🤝 **Let's Connect!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+
