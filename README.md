@@ -32,11 +32,12 @@ Experienced in CLI tools, Linux administration, and currently expanding expertis
 
 ---
 
-### 🎯 Focus Areas  
+### 🎯 Learning Areas  
 - Embedded systems (Arduino, ESP)  
 - Python scripting & automation  
 - Linux CLI, system monitoring  
-- DevOps tools & containerization  
+- Docker tools & containerization
+- AWS and Azure
 
 ---
 
@@ -45,9 +46,3 @@ Experienced in CLI tools, Linux administration, and currently expanding expertis
 - **AquaAssistant** — aquarium monitoring assistant with sensor integration and alerting  
 
 > 📌 Repositories are pinned below.
-
----
-
-### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Art-Invis&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Invis&layout=compact&theme=tokyonight&hide_border=true)
